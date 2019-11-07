@@ -1,6 +1,8 @@
 # Visual Studio Code Accent
 This is intended to be added to the settings.json file on Visual Studio Code. This will give a sort of Accent colour to Visual Studio which is of whatever colour you wish it to be.
 
+![example](https://i.imgur.com/FsMyOq6.png)
+
 The default Colour is set to `#ff0080`, a pink colour to show which areas are changed. However this can be changed easily with a quick replace.
 
 ![default colour](https://via.placeholder.com/300x30/ff0080/ff0080/)
