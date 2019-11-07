@@ -1,0 +1,43 @@
+{
+    "workbench.colorCustomizations": {
+        // Scrollbars
+        "scrollbarSlider.activeBackground"  : "#ff0080",
+        "scrollbarSlider.hoverBackground"   : "#ff0080AA",
+
+        // Menu items
+        "dropdown.listBackground"           : "#ff0080",
+        "menubar.selectionBackground"       : "#ff0080",
+        "menu.selectionBackground"          : "#ff0080",
+        "list.activeSelectionBackground"    : "#ff0080",
+        "list.hoverBackground"              : "#ff0080AA",
+        "list.focusBackground"              : "#ff008055",
+
+        // Text Selection
+        "editor.selectionBackground"        : "#ff0080AA",      // Needs to have higher Transparrency on
+        "selection.background"              : "#ff0080AA",      // Some harsher colours like Red.
+
+        // Bottom Bar
+        "statusBar.background"              : "#ff0080",
+        "statusBar.noFolderBackground"      : "#ff0080",
+
+        // Links
+        "textLink.foreground"               : "#ff0080",
+        "textLink.activeForeground"         : "#ff0080AA",
+
+        // Badges
+        "badge.background"                  : "#ff0080",        // All other badges
+        "activityBarBadge.background"       : "#ff0080",        // Sidebars
+
+        // Inputs
+        "input.border"                      : "#ff0080AA",
+        "inputOption.activeBackground"      : "#ff0080AA",      // Button at the end
+        "inputOption.activeBorder"          : "#ff0080AA",
+        "button.background"                 : "#ff0080",
+        "button.hoverBackground"            : "#ff0080AA",
+        "checkbox.background"               : "#ff0080",
+
+        // Random things.
+        "editorGroup.dropBackground"        : "#ff008055",      // Dragging 
+        "progressBar.background"            : "#ff0080",        // Progress bar when loading items 
+    },
+}
